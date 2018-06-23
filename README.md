@@ -4,7 +4,7 @@
 
 ### How to use?
 ```
-npm install vue-iconfont-component --save-dev
+npm install vue-iconfont-component --save
 ```
 
 ### Example
