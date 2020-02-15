@@ -1,7 +1,7 @@
 {
   "name": "vue-iconfont-component",
   "description": "vue-iconfont-component",
-  "version": "1.0.12",
+  "version": "1.0.2",
   "author": "loveyunk <mjjccc@126.com>",
   "main": "dist/vue-iconfont-component.min.js",
   "license": "MIT",
