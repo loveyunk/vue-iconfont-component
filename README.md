@@ -1,9 +1,9 @@
 # vue-iconfont-component
 
-[![https://img.shields.io/npm/v/vue-iconfont-component.svg](https://img.shields.io/npm/v/vue-iconfont-component.svg)](https://www.npmjs.com/package/vue-iconfont-component)
-[![https://img.shields.io/npm/dt/vue-iconfont-component.svg](https://img.shields.io/npm/dt/vue-iconfont-component.svg)](https://www.npmjs.com/package/vue-iconfont-component)
-[![https://img.shields.io/npm/dm/vue-iconfont-component.svg](https://img.shields.io/npm/dm/vue-iconfont-component.svg)](https://www.npmjs.com/package/vue-iconfont-component)
-[![https://img.shields.io/npm/l/vue-iconfont-component.svg](https://img.shields.io/npm/l/vue-iconfont-component.svg)](https://github.com/loveyunk/vue-iconfont-component/blob/master/LICENSE)
+[![https://img.shields.io/npm/v/vue-iconfont-component](https://img.shields.io/npm/v/vue-iconfont-component)](https://www.npmjs.com/package/vue-iconfont-component)
+[![https://img.shields.io/npm/dt/vue-iconfont-component](https://img.shields.io/npm/dt/vue-iconfont-component)](https://www.npmjs.com/package/vue-iconfont-component)
+[![https://img.shields.io/npm/dm/vue-iconfont-component](https://img.shields.io/npm/dm/vue-iconfont-component)](https://www.npmjs.com/package/vue-iconfont-component)
+[![https://img.shields.io/npm/l/vue-iconfont-component](https://img.shields.io/npm/l/vue-iconfont-component)](https://github.com/loveyunk/vue-iconfont-component/blob/master/LICENSE)
 
 > A Vue component for use iconfont
 
